@@ -1,2 +1,3 @@
 # rsschool-cv
-https://github.com/Stasy4168/rsschool-cv/edit/gh-pages/README.md
+
+ https://Stasy4168.github.io/rsschool-cv/cv
