@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://GITHUB-USERNAME.github.io/rsschool-cv/cv
+https://Stasy4168.github.io/rsschool-cv/cv
