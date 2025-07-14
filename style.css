@@ -1,5 +1,5 @@
 body {
-    background-color: lightgrey;
+    background-color: grey;
   }
   
   h1 {
@@ -24,4 +24,20 @@ body {
   .nav {
     color: green;
     display: flex;
+    align-items: row;
+    flex-direction: row;
+    justify-content: center;
+
   }
+
+  .nav_item {
+    align-items: row;
+  }
+
+footer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+}
